@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(135, 135, 223);
+}
+main{
+    
+    margin:50px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+section{
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    width: 70%;
+}
+article{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    border-bottom:lightgrey solid 0.1px ;
+}
+
+img{
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    
+}
+
+p{
+    text-align: end;
+    padding-right: 20px;
+}
+.uno{
+    color: lightgrey;
+}
