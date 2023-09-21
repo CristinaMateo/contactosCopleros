@@ -34,6 +34,8 @@ img{
 p{
     text-align: end;
     padding-right: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 0.5;
 }
 .uno{
     color: lightgrey;
